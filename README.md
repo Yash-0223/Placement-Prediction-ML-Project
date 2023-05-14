@@ -10,7 +10,7 @@
 <br>
 <p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
 
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+#  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files| Description |
 | ------------- | ------------- |
@@ -21,7 +21,7 @@
 <br>
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Findings
    
     
     o       Analysed the relationship between the number of Job Openings and the Size of the companies.
@@ -37,10 +37,9 @@
     o	Found out the Top 10 companies based on the number of jobs present in them.
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
-![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+
 
 
 
@@ -51,7 +50,7 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
     1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
     
@@ -75,7 +74,7 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
    
    1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
    
@@ -93,7 +92,7 @@
    <br>
    
    
-   ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
    <B> The aim of the Project is to: </B>
    
