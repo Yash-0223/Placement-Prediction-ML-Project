@@ -14,7 +14,7 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **ML-ModelCreation_and_Analysis_EP** | This file contains the Python codes of the ML model creation and their Analysis parts. |
+| **ML-ModelCreation_and_Analysis_EPML.ipynb** | This file contains the Python codes of the ML model creation and their Analysis parts. |
 | **DataCleaning_and_Analysis_EPML.ipynb** | This file contains the Python codes of the Data Cleaning and Exploratory Analysis parts. |
 | **Placement_Data.csv**  | This file provides the raw data for the project .  |
 | **Employment_Prediction_ML_Project.csv**  | These files contain the final data drawn out after the Data Cleaning.  |
