@@ -21,20 +21,20 @@
 <br>
 
 
-#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Findings
+#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the relationship between the number of Job Openings and the Size of the companies.
+    o       Analysed the correlation between scores at different level of education and the placement status using scatter plot.
     
-    o	Explored the trends for the different job profiles and the number of job openings available for them.
+    o	Analysed the relationship between all the numerical columns of the Data using Pairplot.
      
-    o	Analysed the percentage of total jobs available for diffrent Standards of Experiences.
+    o	Analysed the relationship between Percentage score in Graduation and the Placement Status using Boxplot.
   
-    o	Analysed the top skills based on number of jobs available for them.
+    o	Analysed the correlation between the columns by using correlation heat map.
     
-    o	Analysed the number of jobs present in different locations.
+    o	Analysed the distribution of Salary amongst the people who are placed or are not placed.
     
-    o	Found out the Top 10 companies based on the number of jobs present in them.
+    o	Analysed the suitability of different ML models for predicting placement status and salary of the people.
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
@@ -74,7 +74,7 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Fidings
    
    1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
    
