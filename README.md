@@ -68,13 +68,20 @@
    
    6. Linear Regression Model is suitable for Predicting Salary as the R2 Score is found around 96%, when tested, which is suitable.
    
-   7. For Predicting the Employement Status, Logistic Regression Model is better as it shows the highest accuracy, around 84%. TPR is also higher (22), compared to others (having 17).
+   7. For Predicting the Employement Status, Logistic Regression Model is better as it shows the highest accuracy, around 84%. Total Positive Rate is also higher (22), compared to Decision Tree and Random Forest models (having 17).
    
+   <br>
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
    
+   1. The R2 Score of the Linear Regression Model built for predicting Salary is found 96%. 
    
+   2. The Accuracy Score of the Logistic Regression Model built for predicting Placement Status is found around 84% and the True Positive Rate (TPR) is found 22.
+   
+   3. The Accuracy Score of the Decision Tree Model built for predicting Placement Status is found around 72% and the True Positive Rate (TPR) is found 17.
+   
+   4. The Accuracy Score of the Random Forest Model built for predicting Placement Status is found around 80% and the True Positive Rate (TPR) is found 17.
    
    <br>
    
@@ -83,17 +90,17 @@
    
    <B> The aim of the Project is to: </B>
    
-   1. Assist the people in finding the most suitable jobs based on their eligibilities and preferences. 
+   1. Assist the students in making themselves capable of getting placed and to get higher salaries.
    
-   2. Help the migratory work force in finding out the most suitable locations for their respective work fields.
+   2. Help the organisations like Colleges and Educational Institutes in predicting the number of Students who can get placements, studying there.
    
-   3. To provide an idea of the employement situation in the country.
+   3. To provide an idea of the employement situation in the Economy.
    
-   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure employment.
+   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure placements.
    
-   5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
+   5. Helping the New Generation to plan their future with the informations like the required scores at different levels of eduction, most in demand subjects etc.
    
-   6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
+   6. Empowerment of common people with the relevant information that can help them to secure employment and aid to raising the employment rate of the Economy.
    
    
    
