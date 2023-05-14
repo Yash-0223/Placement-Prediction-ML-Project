@@ -48,7 +48,7 @@
     
     4. Imported the Cleaned data in another ipynb file and did Scaling of Numerical columns using Standard Scaler and Encoding of categorical ones using OneHot Encoder. 
     
-    5. Built Linear Regression model predicting the Salary and tested it by finidng R2 score and other accuracy metrics.
+    5. Built Linear Regression model, predicting the Salary and tested it by finidng R2 score and other accuracy metrics.
     
     6. Built Logistic Regression, Decision Tree and Random Forest models to predict Placement Status and did comparison analysis with the help of accuracy score, confusion matrix, Classification report etc.
    
