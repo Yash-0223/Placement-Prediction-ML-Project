@@ -56,19 +56,19 @@
 
 # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Findings
    
-   1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
+   1. The Data shows high Correlation between High School Percentage and Placement Status. 
    
-   2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
+   2. The Data shows that the People having Lower Percentage in High School are mostly not placed and others are mostly placed.
    
-   3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
+   3. There is also a high positive correlation between scores in Graduation and Placement Status.
    
-   4. Programming languages like Python, Java and Java script are the most in demand skills.
+   4. The Data shows that around 25% of the people are not placed, the reason is mostly the lower scores at different levels of education.
    
-   5. Bangalore and Mumbai are the Cities with highest number of job openings.
+   5. The Count of People decreases with Increasing salary, showing less placements at levels with higher salary.
    
-   6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
+   6. Linear Regression Model is suitable for Predicting Salary as the R2 Score is found around 96%, when tested, which is suitable.
    
-   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
+   7. For Predicting the Employement Status, Logistic Regression Model is better as it shows the highest accuracy, around 84%. TPR is also higher (22), compared to others (having 17).
    
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
