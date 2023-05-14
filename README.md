@@ -1,7 +1,7 @@
 # 
 # <h>  **Placement Prediction with Machine Learning and Python (Pandas, SK Learn, Seaborn, Matplotlib, NumPy etc).**
 
-**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas) and Power Query (MS Excel), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan within 7 days.**
+**The Project is aimed to predict the salaries and the placement status of the students based upon their Board of eductaion, Subjects, Marks in the School and in College etc using Machine Learning Models like Linear Regression, Logistic Regression, Decision Tree and Random Forest. The Project's objectives were to investigate suitability of various ML models for the predictions, assesed on the basis of their accuracy score, confusion matrix etc and to help students with the information that they would need to know, in order to make themselves more likely to get placed. Additionally, it compared the number of placements based on the amount of salary and scores at different levels of education. Moreover, it aimed to reveal some of the dataset's hidden insights. The Data Cleaning was done with Pandas, Data Analysis (Exploratory Analysis) of the cleaned data was done with Pandas and Visualisation libraries like Seaborn and Matplotlib. The ML Models were built with SKlearn and Pandas, whereas the after analysis was done with Sklearn and visualisation library, Seaborn. This project was completed under the supervision of respected Mr. Tejas Natani, Instructional Associate at Masai School within 2 days.**
 
 
 
@@ -14,13 +14,10 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **WebScrapping.ipynb** | This file contains the ipynb code of the Web scrapping part. |
-| **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
-| **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
-| **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This folder provides the raw data for the analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
+| **ML-ModelCreation_and_Analysis_EP** | This file contains the Python codes of the ML model creation and their Analysis parts. |
+| **DataCleaning_and_Analysis_EPML.ipynb** | This file contains the Python codes of the Data Cleaning and Exploratory Analysis parts. |
+| **Placement_Data.csv**  | This file provides the raw data for the project .  |
+| **Employment_Prediction_ML_Project.csv**  | These files contain the final data drawn out after the Data Cleaning.  |
 <br>
 
 
