@@ -100,7 +100,7 @@
    
    5. Helping the New Generation to plan their future with the informations like the required scores at different levels of eduction, most in demand subjects etc.
    
-   6. Empowerment of common people with the relevant information that can help them to secure employment and aid to raising the employment rate of the Economy.
+   6. Empowerment of common people with the relevant information that can help them to secure Placements and aid to raising the Employment rate of the Economy.
    
    
    
