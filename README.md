@@ -1,7 +1,7 @@
 # 
 # <h>  **Placement Prediction with Machine Learning and Python (Pandas, SK Learn, Seaborn, Matplotlib, NumPy etc).**
 
-**The Project is aimed to predict the salaries and the placement status of the students based upon their Board of eductaion, Subjects, Marks in the School and in College etc using Machine Learning Models like Linear Regression, Logistic Regression, Decision Tree and Random Forest. The Project's objectives were to investigate suitability of various ML models for the predictions, assesed on the basis of their accuracy score, confusion matrix etc and to help students with the information that they would need to know, in order to make themselves more likely to get placed. Additionally, it compared the number of placements based on the amount of salary and scores at different levels of education. Moreover, it aimed to reveal some of the dataset's hidden insights. The Data Cleaning was done with Pandas, Data Analysis (Exploratory Analysis) of the cleaned data was done with Pandas and Visualisation libraries like Seaborn and Matplotlib. The ML Models were built with SKlearn and Pandas, whereas the after analysis was done with Sklearn and visualisation library, Seaborn. This project was completed under the supervision of respected Mr. Tejas Natani, Instructional Associate at Masai School within 2 days.**
+**The Project is aimed to predict the salaries and the placement status of the students based upon their Board of education, Subjects, Marks in the School and in College etc using Machine Learning Models like Linear Regression, Logistic Regression, Decision Tree and Random Forest. The Project's objectives were to investigate suitability of various ML models for the predictions, assesed on the basis of their accuracy score, confusion matrix etc and to help students with the information that they would need to know, in order to make themselves more likely to get placed. Additionally, it compared the number of placements based on the amount of salary and scores at different levels of education. Moreover, it aimed to reveal some of the dataset's hidden insights. The Data Cleaning was done with Pandas, Data Analysis (Exploratory Analysis) of the cleaned data was done with Pandas and Visualisation libraries like Seaborn and Matplotlib. The ML Models were built with SKlearn and Pandas, whereas the after analysis was done with Sklearn and visualisation library, Seaborn. This project was completed under the supervision of respected Mr. Tejas Natani, Instructional Associate at Masai School within 2 days.**
 
 
 
@@ -17,7 +17,7 @@
 | **ML-ModelCreation_and_Analysis_EPML.ipynb** | This file contains the Python codes of the ML model creation and their Analysis parts. |
 | **DataCleaning_and_Analysis_EPML.ipynb** | This file contains the Python codes of the Data Cleaning and Exploratory Analysis parts. |
 | **Placement_Data.csv**  | This file provides the raw data for the project .  |
-| **Employment_Prediction_ML_Project.csv**  | These files contain the final data drawn out after the Data Cleaning.  |
+| **Employment_Prediction_ML_Project.csv**  | This file contains the final data drawn out after the Data Cleaning.  |
 <br>
 
 
